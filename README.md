@@ -85,5 +85,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries or more information, please contact:
-- **Name**: Sakthi Dharan M A 
+- **Name**:  Sakthi Dharan M A 
 - **Email**: officialsakthidharan@gmail.com
